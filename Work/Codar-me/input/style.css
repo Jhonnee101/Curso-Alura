@@ -1,0 +1,23 @@
+body{
+    background-color: #1d263b;
+    color: white;
+    text-align: center;
+    padding: 12px;
+}
+.title{
+    background-color: rgb(29, 87, 68);
+    border-radius: 16px;
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 12px;
+    margin-bottom: 25px;
+}
+.link{
+    color: rgb(0, 196, 10);
+    line-height: 24px;
+}
+
+.bio{
+    font-size: 18px;
+}
