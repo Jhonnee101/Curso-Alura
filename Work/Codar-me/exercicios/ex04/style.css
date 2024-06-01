@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(64, 5, 78);
+    color: white;
+    height: 100%;
+    width: 100%;
+
+}
+table{
+    background-color: rgb(48, 4, 59);
+    padding: 4px;
+    border-radius: 20px;
+    border-style: inherit;
+    border-color: aquamarine;
+    margin: 10px;
+    width: 90%;
+}
+td{
+    padding: 10px;
+}
+
+img{
+    width: 20px;
+    padding: 5px;
+}
+
+.title h1{
+    color: rgb(224, 210, 13);
+}
+.title h2{
+    font-size: 20px;
+}

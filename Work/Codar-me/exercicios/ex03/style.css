@@ -1,0 +1,41 @@
+body{
+    background-color: #00171F;
+    color: aliceblue;
+
+    
+}
+h1{
+    padding: 1px;
+    font-size: 40px;
+    color: #00A7E1;
+
+}
+
+
+.circle{
+    
+    background-color: aaa;
+    border-radius: 50%;
+    border: 5px solid #00A7E1;
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    position:relative;
+}
+.circle img{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
+p{
+    font-size: 20px;
+    width: 70%;
+}
+.content{
+    display: inline-block;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #0a1d24;
+    font-size: 25px;
+}
