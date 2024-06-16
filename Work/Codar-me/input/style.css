@@ -1,8 +1,16 @@
+@font-face {
+    font-family: "Lemon Milk";
+    src: url(fonts/lemon-milk/LEMONMILK-Regular.otf) format('otf');
+    font-style: normal;
+    font-weight: 400;
+}
+
 body{
     background-color: #1d263b;
     color: white;
     text-align: center;
     padding: 12px;
+    font-family: "Lemon Milk", sans-serif;
 }
 .title{
     background-color: rgb(29, 87, 68);
